@@ -8,10 +8,10 @@
 		<version>2.7.14</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.inventory</groupId>
-	<artifactId>inventory</artifactId>
+	<groupId>com.order</groupId>
+	<artifactId>order</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>inventory</name>
+	<name>order</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -79,7 +79,6 @@
 			<version>3.3.1</version>
 		</dependency>
 
-	</dependencies>
 	</dependencies>
 
 	<build>
